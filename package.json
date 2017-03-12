@@ -1,0 +1,12 @@
+{
+	"name": "country-to-emoji-flag",
+	"description": "Convert an ISO 3166-1 alpha2 code to a unicode emoji flag",
+	"version": "1.0.0",
+	"repository": "srcagency/country-to-emoji-flag",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"tape": "^4.6.3"
+	}
+}
